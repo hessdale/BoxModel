@@ -2,14 +2,17 @@
 background-color: bisque;
 padding: 25px 45px;
 border: 1in solid black;
+margin: 100px 100px;
 }
 #unique2 {
     background-color: blue;
     padding: 20px 30px;
    border: 10px solid yellowgreen;
+   margin: 100px 100px;
 }
 #unique3 {
     background-color: brown;
     padding: 10px 8px;
     border: 10px solid black;
+    margin: 100px 100px;
 }
